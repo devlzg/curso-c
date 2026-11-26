@@ -6,5 +6,4 @@ int main() {
     scanf("%d", &myFavoriteNumber);
     printf("You entered number: %d\n", myFavoriteNumber);
     return 0;
-    // teste
 }
